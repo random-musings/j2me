@@ -1,0 +1,8 @@
+MIDlet-1: Midlet, , marblegame.Midlet
+MIDlet-Jar-Size: 48421
+MIDlet-Jar-URL: MarbleGame.jar
+MIDlet-Name: MarbleGame
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
